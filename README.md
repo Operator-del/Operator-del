@@ -33,26 +33,4 @@
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
 </div>
 
-###
 
----
-
-### 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Operator-del&theme=dracula)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Operator-del&theme=dracula&row=1&column=6)
-
----
-
-### 🟡 Contribution Graph
-
-![Pacman Contribution Graph](https://raw.githubusercontent.com/Operator-del/Operator-del/output/pacman-contribution-graph.svg)
-
-
-###
-
-<br clear="both">
-
-
-###
