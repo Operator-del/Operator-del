@@ -35,19 +35,24 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Operator-del&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Operator-del&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+---
+
+### 📊 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Operator-del&theme=dracula)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Operator-del&theme=dracula&row=1&column=6)
+
+---
+
+### 🟡 Contribution Graph
+
+![Pacman Contribution Graph](https://raw.githubusercontent.com/Operator-del/Operator-del/output/pacman-contribution-graph.svg)
+
 
 ###
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Operator-del/Operator-del/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Operator-del/Operator-del/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Operator-del/Operator-del/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
